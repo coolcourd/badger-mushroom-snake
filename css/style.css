@@ -1,0 +1,41 @@
+h1 {
+      color: red;
+      text-shadow: 1px 1px #000;
+    }
+      }
+      button {
+        width: 60%;
+        font-size: 40px;
+        border: none;
+        border-bottom: 5px solid #884;
+        box-shadow: 2px 4px 19px grey;
+        outline: none;
+        background-color: blue;
+        border-radius: 14px;
+        background-image: url('https://static.pexels.com/photos/33790/fly-agaric-mushroom-red-fly-agaric-mushroom-toxic.jpg');
+        background-position: center;
+        background-size: cover;
+        color: #fff;
+        text-shadow: 2px 1px #222;
+      }
+
+      p {
+        font-size: 25px;
+        color: white;
+      }
+      div {
+        margin: 30px auto;
+        width: 90%;
+        background: #251;
+        padding: 20px;
+        border-radius: 5px;
+        border-bottom: 5px solid #884;
+        box-shadow: 2px 4px 19px grey;
+      }
+      hr {
+        margin-top: 40px;
+      }
+      a {
+        color: red;
+        text-shadow: 1px 1px #000;
+      }
